@@ -4,5 +4,5 @@ This repository contains two Python projects created to demonstrate logic buildi
 problem-solving skills, and basic project structuring.
 
 Projects Included
-1. Matrix Operations Project
-2. Random 2-Player Cricket Game
+1. Random 2-Player Cricket Game
+2. Matrix Operations Project
